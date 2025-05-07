@@ -1,1 +1,1 @@
-# MealMate
+TeamSync
